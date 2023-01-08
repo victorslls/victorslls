@@ -25,9 +25,11 @@
   
 </div> <br>
 
-Apaixonado por tecnologia, empenhado em adquirir e aplicar o máximo de conhecimento no desenvolvimento das minhas aplicações.
-
 
 ## Dados das skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorslls&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+Apaixonado por tecnologia, empenhado em adquirir e aplicar o máximo de conhecimento no desenvolvimento das minhas aplicações.
+
+
